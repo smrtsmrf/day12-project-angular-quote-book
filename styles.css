@@ -1,0 +1,16 @@
+#addNew {
+	margin: auto;
+	text-align: center;
+}
+
+button {
+	display: inline-block;
+}
+
+.fa {
+	color: red;
+}
+
+h4 {
+	color: grey;
+}
